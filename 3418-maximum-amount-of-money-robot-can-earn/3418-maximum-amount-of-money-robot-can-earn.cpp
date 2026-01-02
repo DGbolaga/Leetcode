@@ -25,7 +25,7 @@ public:
 
     int fM(vector<vector<int>>& coins, int i, int j, int k, 
             vector<vector<vector<int>>>& dp) {
-        // recursive.
+        // Memoization
         // base case.
         if (i < 0 || j < 0) return -1e8;
         if (i == 0 && j == 0) {
@@ -49,7 +49,7 @@ public:
     }
 
     int fT(vector<vector<int>>& coins) {
-        //Tabulation - our memoization solution gave tle.
+        //Tabulation - memoization solution gave tle.
         // In this case, we'll be going from top-left to bottom right in
         // filling the table.
         int m = coins.size();
@@ -110,10 +110,11 @@ public:
 
     int maximumAmount(vector<vector<int>>& coins) {
 
-        // it's a dp on grid problem.
+        // it's a 3D dp problem.
         // I'll walk through the:
         // -recursive
         // -memoization
+        // -tabulation
 
         // Steps:
         // - explain everything in terms of index (i, j, k)
@@ -125,10 +126,12 @@ public:
         int k = 3; //dp size for tabulation
 
         // For memoization; 3D array
-        //vector<vector<vector<int>>> dp(m, vector<vector<int>>(n, vector<int>(k, -1)));
+        //vector<vector<vector<int>>> dp(m, vector<vector<int>>(n, vector<int>(k, -1))); 
 
         //return fM(coins, m-1, n-1, k-1, dp); // k=2 options only
 
+        //memomization solution gave tle.
+        //I optimized using tabulation.
         return fT(coins);
     }
 };
