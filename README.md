@@ -52,5 +52,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
