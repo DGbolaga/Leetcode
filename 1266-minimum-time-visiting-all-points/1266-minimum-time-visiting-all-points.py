@@ -1,17 +1,8 @@
 class Solution:
     def minTimeToVisitAllPoints(self, points: List[List[int]]) -> int:
-        # we can go with a greedy algorithm.
-        # if the two points adjacent points (x or y axis)
-        # are the same. the minimum second is the abs difference
-        # of the x or y-axis (depending on the axis that's different)
-        # other wise we'll choose to go diagonal 
-        # (adding 1 second as we do so) until the x or y axis
-        # are the same, and repeat the previous step.
-
-        # e.g [
-            # [3, 2], [-2, 5]
-            # [3, 2], [5, 7]
-        # ]
+        # the simple insight here is that the minimum second is the
+        # max of the values x or y between the two adjacent points.
+        # We take the some accross all values to get the answer.
 
         n = len(points)
         ans = 0
