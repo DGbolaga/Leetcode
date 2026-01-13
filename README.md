@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DGbolaga/Leetcode-grind/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DGbolaga/Leetcode-grind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
 |  |
@@ -89,8 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
 ## Geometry
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/DGbolaga/Leetcode-grind/tree/master/1266-minimum-time-visiting-all-points) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
