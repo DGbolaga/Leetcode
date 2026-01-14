@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3453-separate-squares-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DGbolaga/Leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
+| [3453-separate-squares-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/3453-separate-squares-i) |
 ## String
 |  |
 | ------- |
