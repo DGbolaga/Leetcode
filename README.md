@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/DGbolaga/Leetcode-grind/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/DGbolaga/Leetcode-grind/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/DGbolaga/Leetcode-grind/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/DGbolaga/Leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DGbolaga/Leetcode-grind/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/DGbolaga/Leetcode-grind/tree/master/0279-perfect-squares) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DGbolaga/Leetcode-grind/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/DGbolaga/Leetcode-grind/tree/master/1390-four-divisors) |
 ## Combinatorics
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/DGbolaga/Leetcode-grind/tree/master/0279-perfect-squares) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
