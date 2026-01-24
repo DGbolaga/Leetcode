@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DGbolaga/Leetcode-grind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DGbolaga/Leetcode-grind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/DGbolaga/Leetcode-grind/tree/master/0055-jump-game) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Geometry
 |  |
 | ------- |
