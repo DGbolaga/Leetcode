@@ -8,16 +8,37 @@ class Solution:
         # - loop through the array and save the two values that give the
         # - minimum absolute difference.
 
-        mp = {}
+        
+
+      
+        # arr.sort()
+        # ans = []
+        # n = len(arr)
+        # minA = float("inf")
+        # for i in range(1, n):
+        #     minA = min(minA, arr[i] - arr[i-1])
+        
+        # for i in range(1, n):
+        #     if arr[i] - arr[i-1] == minA:
+        #         ans.append([arr[i-1], arr[i]])
+
+        # return ans
+
+        # A better approach will be to traverse the array once,
+        # and update the resulting array, if it's less than the 
+        # current minimum and update the minimum. 
+        # If it's equals, we want to append it to our result.
+
         arr.sort()
-        ans = []
+        res = []
         n = len(arr)
         minA = float("inf")
         for i in range(1, n):
-            minA = min(minA, arr[i] - arr[i-1])
-        
-        for i in range(1, n):
-            if arr[i] - arr[i-1] == minA:
-                ans.append([arr[i-1], arr[i]])
-                
-        return ans
+            diff = arr[i] - arr[i-1]
+            if diff < minA:
+                minA = diff
+                res = [[arr[i-1], arr[i]]]
+            elif diff == minA:
+                res.append([arr[i-1], arr[i]])
+
+        return res
