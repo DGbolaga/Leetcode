@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DGbolaga/Leetcode-grind/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/DGbolaga/Leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
+| [1200-minimum-absolute-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DGbolaga/Leetcode-grind/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/DGbolaga/Leetcode-grind/tree/master/1390-four-divisors) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
