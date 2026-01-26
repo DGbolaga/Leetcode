@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DGbolaga/Leetcode-grind/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DGbolaga/Leetcode-grind/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1641-count-sorted-vowel-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/1641-count-sorted-vowel-strings) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/DGbolaga/Leetcode-grind/tree/master/0279-perfect-squares) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DGbolaga/Leetcode-grind/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/DGbolaga/Leetcode-grind/tree/master/1390-four-divisors) |
+| [1641-count-sorted-vowel-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/1641-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DGbolaga/Leetcode-grind/tree/master/0062-unique-paths) |
+| [1641-count-sorted-vowel-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/1641-count-sorted-vowel-strings) |
 ## Greedy
 |  |
 | ------- |
