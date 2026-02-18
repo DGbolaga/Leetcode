@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1200-minimum-absolute-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/DGbolaga/Leetcode-grind/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
