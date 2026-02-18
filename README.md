@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DGbolaga/Leetcode-grind/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/DGbolaga/Leetcode-grind/tree/master/0067-add-binary) |
 | [0279-perfect-squares](https://github.com/DGbolaga/Leetcode-grind/tree/master/0279-perfect-squares) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DGbolaga/Leetcode-grind/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/DGbolaga/Leetcode-grind/tree/master/1390-four-divisors) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DGbolaga/Leetcode-grind/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
@@ -139,10 +141,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DGbolaga/Leetcode-grind/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/DGbolaga/Leetcode-grind/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DGbolaga/Leetcode-grind/tree/master/0693-binary-number-with-alternating-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/DGbolaga/Leetcode-grind/tree/master/0190-reverse-bits) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DGbolaga/Leetcode-grind/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
