@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DGbolaga/Leetcode-grind/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
+| [0696-count-binary-substrings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DGbolaga/Leetcode-grind/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
