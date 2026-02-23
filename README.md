@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Linked List
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
 | [0696-count-binary-substrings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Geometry
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DGbolaga/Leetcode-grind/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/DGbolaga/Leetcode-grind/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DGbolaga/Leetcode-grind/tree/master/0693-binary-number-with-alternating-bits) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0696-count-binary-substrings) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
