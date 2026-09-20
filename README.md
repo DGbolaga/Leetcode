@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DGbolaga/Leetcode-grind/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/DGbolaga/Leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
+| [0496-next-greater-element-i](https://github.com/DGbolaga/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1200-minimum-absolute-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DGbolaga/Leetcode-grind/tree/master/1266-minimum-time-visiting-all-points) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/DGbolaga/Leetcode-grind/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/DGbolaga/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DGbolaga/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DGbolaga/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
