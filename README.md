@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DGbolaga/Leetcode-grind/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/DGbolaga/Leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/DGbolaga/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DGbolaga/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/DGbolaga/Leetcode/tree/master/0740-delete-and-earn) |
 | [1200-minimum-absolute-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DGbolaga/Leetcode-grind/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/DGbolaga/Leetcode-grind/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/DGbolaga/Leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DGbolaga/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/DGbolaga/Leetcode/tree/master/0740-delete-and-earn) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DGbolaga/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DGbolaga/Leetcode-grind/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/DGbolaga/Leetcode-grind/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DGbolaga/Leetcode-grind/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DGbolaga/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
 |  |
@@ -190,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DGbolaga/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DGbolaga/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DGbolaga/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
