@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DGbolaga/Leetcode-grind/tree/master/0055-jump-game) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DGbolaga/Leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3453-separate-squares-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/3453-separate-squares-i) |
 ## String
 |  |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/DGbolaga/Leetcode-grind/tree/master/0696-count-binary-substrings) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -202,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DGbolaga/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Counting
+|  |
+| ------- |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 <!---LeetCode Topics End-->
