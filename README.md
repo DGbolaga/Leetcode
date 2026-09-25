@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DGbolaga/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Linked List
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DGbolaga/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
 | ------- |
@@ -105,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DGbolaga/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DGbolaga/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DGbolaga/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
 | ------- |
