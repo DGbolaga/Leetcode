@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DGbolaga/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2636-maximum-subsequence-score](https://github.com/DGbolaga/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/DGbolaga/Leetcode-grind/tree/master/0055-jump-game) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
+| [2636-maximum-subsequence-score](https://github.com/DGbolaga/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Breadth-First Search
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/DGbolaga/Leetcode-grind/tree/master/1200-minimum-absolute-difference) |
+| [2636-maximum-subsequence-score](https://github.com/DGbolaga/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2636-maximum-subsequence-score](https://github.com/DGbolaga/Leetcode/tree/master/2636-maximum-subsequence-score) |
 <!---LeetCode Topics End-->
