@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DGbolaga/Leetcode-grind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DGbolaga/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DGbolaga/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2636-maximum-subsequence-score](https://github.com/DGbolaga/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DGbolaga/Leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DGbolaga/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3453-separate-squares-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/3453-separate-squares-i) |
 ## String
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DGbolaga/Leetcode-grind/tree/master/0067-add-binary) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DGbolaga/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DGbolaga/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2636-maximum-subsequence-score](https://github.com/DGbolaga/Leetcode/tree/master/2636-maximum-subsequence-score) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DGbolaga/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
