@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DGbolaga/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DGbolaga/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2636-maximum-subsequence-score](https://github.com/DGbolaga/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2755-extra-characters-in-a-string](https://github.com/DGbolaga/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/DGbolaga/Leetcode-grind/tree/master/1641-count-sorted-vowel-strings) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
+| [2755-extra-characters-in-a-string](https://github.com/DGbolaga/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DGbolaga/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DGbolaga/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2755-extra-characters-in-a-string](https://github.com/DGbolaga/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Linked List
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DGbolaga/Leetcode-grind/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1668-maximum-repeating-substring](https://github.com/DGbolaga/Leetcode-grind/tree/master/1668-maximum-repeating-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DGbolaga/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2755-extra-characters-in-a-string](https://github.com/DGbolaga/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/DGbolaga/Leetcode-grind/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Geometry
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DGbolaga/Leetcode-grind/tree/master/0139-word-break) |
+| [2755-extra-characters-in-a-string](https://github.com/DGbolaga/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
