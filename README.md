@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DGbolaga/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2035-count-sub-islands](https://github.com/DGbolaga/Leetcode/tree/master/2035-count-sub-islands) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/DGbolaga/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2636-maximum-subsequence-score](https://github.com/DGbolaga/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2755-extra-characters-in-a-string](https://github.com/DGbolaga/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/DGbolaga/Leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/0064-minimum-path-sum) |
 | [1975-maximum-matrix-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/1975-maximum-matrix-sum) |
+| [2035-count-sub-islands](https://github.com/DGbolaga/Leetcode/tree/master/2035-count-sub-islands) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/DGbolaga/Leetcode-grind/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1731-even-odd-tree](https://github.com/DGbolaga/Leetcode/tree/master/1731-even-odd-tree) |
+| [2035-count-sub-islands](https://github.com/DGbolaga/Leetcode/tree/master/2035-count-sub-islands) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DGbolaga/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DGbolaga/Leetcode-grind/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DGbolaga/Leetcode-grind/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2035-count-sub-islands](https://github.com/DGbolaga/Leetcode/tree/master/2035-count-sub-islands) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DGbolaga/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DGbolaga/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DGbolaga/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Union-Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/DGbolaga/Leetcode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
