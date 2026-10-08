@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DGbolaga/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/DGbolaga/Leetcode-grind/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/DGbolaga/Leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DGbolaga/Leetcode-grind/tree/master/0064-minimum-path-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DGbolaga/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/DGbolaga/Leetcode-grind/tree/master/0300-longest-increasing-subsequence) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DGbolaga/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/DGbolaga/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DGbolaga/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/DGbolaga/Leetcode-grind/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
